@@ -1,0 +1,22 @@
+.header-class {
+    width: 100%;
+    cursor: pointer;
+    
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    background-color: rgb(157, 163, 218);
+    font-size: 5vw;font-family: 'Montserrat', 'sans serif';
+    box-shadow: 0px 1px 5px black;
+    color: white;
+    z-index: 100;
+}
+
+.theatre {
+    color: black;
+    
+}
+
+.creation {
+    color: black;
+}
